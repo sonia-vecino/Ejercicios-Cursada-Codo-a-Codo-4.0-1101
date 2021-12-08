@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+}
+fieldset {
+    background-color: cornsilk;
+    width: 500px;
+    height: 150px;
+    margin-top: 100px
+}
+#boton {
+    height: auto;
+    width: auto;
+}
+input {
+    margin: 10px;
+    size: 60;
+}
