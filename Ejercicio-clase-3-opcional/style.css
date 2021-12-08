@@ -1,0 +1,32 @@
+body {
+    background-color: cornsilk;
+}
+p {
+    color: rgb(61, 58, 58);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+table, th, td {
+    border: 3px solid black;
+}
+table {
+    width: 100%;
+}
+h1,h2 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset {
+    background-color: rgb(245, 193, 115);
+    width: 500px;
+    height: 150px;
+    margin-top: 50px
+}
+input {
+    margin: 10px;
+    size: 60;
+}
