@@ -1,7 +1,4 @@
-# Ejercicios-Cursada-Codo-a-Codo-4.0-1101
-Diferentes tareas asignadas durante la cursada del programa Codo a Codo (web design/nodejs) año 2021.
-
-ejercicio 1 : 
+Ejercicio 1 : 
 Título: Pagina de ejemplo
 Un texto que diga:
 Recetas de cocina y que esté centrado, en el primer renglón, en negrita y subrayado
