@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width", initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>ejercicio clase 2</title>
+</head>
+
+<body>
+    <h1>Análisis Matemático </h1>
+    <p>Programa de la materia y los temas que se verán en clase.</p>
+    <div>
+        <h2>Unidad 1: Funciones </h2>
+        <p>Intervalos de números reales. Entorno. Entorno reducido de un punto. Punto de acumulación. Valor absoluto o módulo de un número real. Propiedades del valor absoluto o módulo.</p>
+            <h3>Capítulo 1.1</h3>
+        <p>Dominio de funciones. Diagramas y gráficos cartesianos de una relación. Funciones escalares. Dominio e imagen. Raíces, orden de multiplicidad. Conjuntos de ceros, de positividad y de negatividad. Crecimiento y decrecimiento. Funciones par e impar. Clasificación de funciones: inyectivas, sobreyectivas y biyectivas. 
+          <h3> Capitulo 1.2 </h3>
+        <p>Función inversa. Función lineal:. Pendiente. Ordenada al origen. Paralelismo y perpendicularidad entre rectas. Función cuadrática. Raíces. Factoreo del polinomio de 2° grado. Coordenadas del vértice. Corrimientos. Dominio, gráfico, imagen, ordenada al origen, raíces, intervalos de positividad y negatividad.Función polinómica.</p>
+          <h3>Capítulo 1.3</h3>
+        <p>Teorema fundamental del álgebra. Factoreo. Multiplicidad de raíces. Análisis de la función (dominio, imagen, ceros, crecimiento, decrecimiento, conjunto de positividad y negatividad, intersección con eje de ordenadas). Funciones a) signo b) valor absoluto o módulo: Análisis de las mismas. Funciones trascendentes: logarítmica y exponencial. Corrimientos. Análisis de las mismas. Función inversa. Funciones: irracional cuadrática () y Análisis de las mismas Funciones trigonométricas análisis de las mismas Condición de posibilidad. Restricciones necesarias. Uso de software matemático.</p>
+    </div>
+     <!-- no se puede saltar de h2 a h4, se deben respetar las jerarquías del h1 al h6 si se decide utilizar en el documento-->
+    
+    
+    <div>
+        <h4>Glosario</h4>
+        <p>Unidad 1</p>
+        <p>Unidad 2</p>
+        <p>Unidad 3</p>
+    </div>    
+    
+</body>
+</html>
