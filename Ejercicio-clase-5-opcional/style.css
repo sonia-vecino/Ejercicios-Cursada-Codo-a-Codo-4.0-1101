@@ -1,0 +1,27 @@
+body{
+    background-color: #001427;
+}
+img{
+    width: 300px;
+    height: auto;
+    margin-left: 750px;
+}
+.imagen {
+    background-color: #F4D58D;
+    width:  100%wv;
+    height: 50%vh;
+    background-position: 130% , 50% ;
+}
+
+.video {
+    border: 5px solid #708d71;
+    width: 50%hw;
+    height: 50%vw;
+}
+.mapa {
+    height: 255px;
+    background-color: #8D0801;
+}
+.ma{
+    margin-left: 75%;
+}
