@@ -6,7 +6,8 @@ let num1 = prompt("dime un numero");
            alert(num2 + " es el mayor valor");
         } else {
             if (num1 > num2) {
-                alert(num2 + " es el menor valor");            } else {
+                alert(num2 + " es el menor valor");            
+            } else {
                 if (num1 == num2) {
                     alert(" ambos números son iguales");
                 }
