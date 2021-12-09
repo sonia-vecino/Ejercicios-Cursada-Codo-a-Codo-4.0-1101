@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+
+body{
+    height: 200vh;
+}
+nav{
+    padding:2em;
+    background-color: violet;
+    text-align: center;
+}
+a {
+    margin: 0 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    font-size: 2em;
+}
