@@ -1,0 +1,22 @@
+body{
+    background-image: url(imagen7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+h1 {
+    background-color: #2D4739;
+    color: bisque;
+    padding: 1em;
+    font-family: monospace;
+    font-size: 1.5em;
+    text-align: center;
+}
+div {
+    height:100vh; 
+    background-image: url("512px-Telegram_logo.svg.png");
+    background-repeat: no-repeat;
+    background-size:5em;
+    background-position: right;
+    margin-top:18%;
+}
